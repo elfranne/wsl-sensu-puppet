@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "puppet.puppet-vscode",
+    "rebornix.ruby",
+    "eamodio.gitlens",
+    "golang.go",
+    "wingrunr21.vscode-ruby"
+  ]
+}
